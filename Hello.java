@@ -1,4 +1,5 @@
 public class Hello{
+	
 		public void test(){}
 		public void test3(){}
 		public static void main(String args[]){
@@ -6,5 +7,8 @@ public class Hello{
 			System.out.println("Happy New Year!");
 			System.out.println("hello Myself!");
 			System.out.println("csc");
+		}
+		public static void print(){
+			System.out.println("hello world!");
 		}
 }
