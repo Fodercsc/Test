@@ -10,6 +10,6 @@ public class Hello{
 			System.out.println("csc");
 		}
 		public static void print(){
-			System.out.println("hello world!");
+			System.out.println("hello hahahhah!");
 		}
 }
