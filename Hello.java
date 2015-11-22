@@ -8,4 +8,7 @@ public class Hello{
 			System.out.println("hello Myself!");
 			System.out.println("csc");
 		}
+		public static void print(){
+			System.out.println("checkout");
+		}
 }
